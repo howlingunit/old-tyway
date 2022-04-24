@@ -1,0 +1,20 @@
+{
+  "name": "old-tyway",
+  "version": "1.0.0",
+  "description": "the old site",
+  "type": "module",
+  "main": "svr.js",
+  "scripts": {
+    "test": "node .",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://hithub.com/howlingunit/old-tyway"
+  },
+  "author": "howlingunit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
